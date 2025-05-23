@@ -17,7 +17,8 @@ C#製のWindowsアプリ[ComM5Atom](https://github.com/bryful/ComM5Atom)とシ�
 * SDA -> G6
 * RES -> G7
 * DC  -> G8
-* CS  -> G39
+* CS  -> G38
+* BLK -> G39
 
 参考にはCSピンがなかったので適当なPINに割り振りました。
 
